@@ -6,6 +6,6 @@
     "wintersmith-nunjucks": "*",
     "browsernizr": "*",
     "async": "~0.2.8",
-    "highlight.js": "~7.3.0"
+    "highlight.js": "~11.11.1"
   }
 }
